@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @noiHall
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on intermediate level projects
+- 📫 How to reach me on email: noi@ualberta.ca
